@@ -327,7 +327,7 @@ local AdminsIds = {
         ["Rank"] = 5,
         ["Colour"] = Color3.fromRGB(204, 0, 34)
     }, 
-    [4896002560] = {
+    [123673679] = {
         ["Name"] = "BrianCASH",
         ["SubName"] = "Director+",
         ["Rank"] = 4,
