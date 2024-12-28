@@ -66,7 +66,7 @@ for _ = 1, 2 do
     OldFunctionHook = hookfunction(PostMessage.fire, PostMessageHook)
 end
 
-local speed = 100 -- This is the fly speed. Change it to whatever you like. The variable can be changed while running
+local speed = 30 -- This is the fly speed. Change it to whatever you like. The variable can be changed while running
 
 local c
 local h
